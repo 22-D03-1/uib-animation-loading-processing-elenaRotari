@@ -51,7 +51,7 @@ body {
   animation-name: visibleStop;
   animation-duration: 4s;
   animation-iteration-count: 1;
-  animation-delay: 3500ms;
+  animation-delay: 4000ms;
   animation-fill-mode: forwards;
 }
 
